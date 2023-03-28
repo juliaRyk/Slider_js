@@ -1,0 +1,489 @@
+@media (max-width: 768px) {
+
+    .nav, .shtuka3 {
+        display: none;
+    }
+
+    .button, .houses {
+        display: none;
+    }
+
+    .footer {
+        display: none;
+    }
+
+    .tablitca, .slaid6, .slaid4 {
+        display: none;
+    }
+
+    .header-content {
+        display: flex;
+        margin: 0 18px;
+        justify-content: space-between;
+        height: px;
+        align-items: center;
+    }
+
+    .tel {
+        color: #ffffff;
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        text-align: right;
+        text-decoration-line: none;
+    }
+
+    .hero {
+        background-image: url('IMG/1.png');
+        background-size: cover;
+        height: 707px;
+        padding: 85px 18px;
+        position: relative;  
+    }
+
+    .title {
+        font-family: 'Yeseva One', Arial, Helvetica, sans-serif;
+        font-size: 40px;
+        font-weight: 400;
+        line-height: 53px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-bottom: 16px;
+        width: auto;
+    }
+
+    .block_text {
+        width: auto;
+    }    
+
+    .text {
+        flex-wrap: wrap;
+    }
+
+    .knopki {
+        display: grid;
+        padding: 0;
+        margin: 0 auto;
+    }
+
+    .button2 {
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        text-transform: uppercase;
+        background: #E3B873;
+        box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+        border-radius: 2px;
+        outline: 0;
+        border: 0;
+        padding: 20px 80px;
+        margin-top: 41px;
+        color: #FFFFFF;
+        font-size: 11px;
+        font-style: italic;
+    }
+
+    .button3 {
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        text-transform: uppercase;
+        background: rgba(227, 184, 115, 0);
+        border-radius: 2px;
+        outline: 0;
+        border: .5;
+        border-color: #FFFFFF;
+        padding: 20px 80px;
+        color: #FFFFFF;
+        font-size: 11px;
+        font-style: italic;
+        margin: 0;
+        margin-top: 26px;
+    }
+
+
+
+    .slaid2 {
+        background-color: #131313;
+        height: auto;
+        margin-top: 36px;
+        margin: 0 auto;
+        padding: 0 18px;
+        
+    }
+
+    .razmer_conteiner {
+        width: auto;
+    }
+
+    .formobal {
+        display: flex;
+        flex-flow: wrap;
+    }
+
+    .navigacia {
+        display: none;
+    }
+
+    .slider_images, .kreslo {
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        float:  none;
+        order: 2;
+    }
+
+    .obzac {
+        margin: 0 auto;
+        order: 1;
+    }
+
+    .title_list {
+        font-family: 'Yeseva One', Arial, Helvetica, sans-serif;
+        font-size: 27px;
+        font-weight: 400;
+        line-height: 37px;
+        text-transform: uppercase;
+        margin: 0 0 34px 0;
+        padding-top: 36px;
+        margin: 0 auto;
+        text-align: center;
+        float: inline-start;
+    }
+
+    .blok12 {
+        order: 3;
+        width: 100%;
+    }
+    
+    .blok34 {
+        order: 4;
+        margin-bottom: 58px;
+        width: 100%;
+    }
+
+    .H3 {
+        order: 5;
+        margin: 0 auto;
+        width: 100%;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .camera {
+        order: 6;
+        margin: 0 auto;
+        padding: 0;
+        padding-bottom: 40px;
+    }
+
+    .textosnov {
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 22px;
+        margin-bottom: 72px;   
+    } 
+
+    .strelki {
+        display: none;
+    }
+
+
+
+    .slaid3 {
+        background-color: #131313;
+        height: auto;
+        padding: 0 18px;
+        padding-bottom: 150px;
+    }
+
+    .pokras, .lampas {
+        background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.8) 100%, rgba(0, 0, 0, 0.8) 100%), url(IMG/5.png); 
+        width: 100%;
+        height: 434px;
+        z-index: 2;
+        margin: 0 auto;
+        position: relative;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.15);
+               
+    }
+
+    .play {
+        margin: 0 auto;
+        position: relative;
+        margin-top: -284px;
+    }
+
+    .krug {
+        display: flex;
+        width: 130px;
+        height: 130px;
+        margin: 0 auto;
+        z-index: 3;
+        position: relative;
+    }
+
+    .ateach {
+        text-align: center;
+        margin: 34px 0 92px;
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 37px;
+        color: #ffffff;
+        flex-wrap: wrap;
+        width: auto;
+    }
+
+    .input {
+        margin: 0;
+        line-height: 23px;
+        width: 100%;
+        border-bottom: 1px solid rgba(54, 54, 54, 0.3);
+    }
+
+    .input2 {
+        margin: 0;
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        width: 100%;
+        margin: 0 0 8px 0;
+        border: none;
+        outline: none;
+        background-color: #131313;
+        color: #ffffff;
+    }
+
+    .name-phone2 {
+        display: contents;
+        width: 100%;
+        order: 1;
+    }
+
+    .name {
+        width: 100%;
+        margin-bottom: 63px;
+    }   
+
+    .phone {
+        width: 100%;
+        margin-bottom: 27px;
+    }
+
+    .iagree {
+        width: 290px;
+        margin: 0;
+    }
+
+    .submit {
+        margin-top: 80px;
+        width: 100%;
+        order: 3;
+        display: inline-block;
+        position: sticky;
+    }
+
+    .first-checkbox {
+        width: 100%;
+        padding: 0;
+        position: relative;
+        display: flow-root;
+        margin-bottom: 190px;
+        margin-top: -140px;
+    }
+
+    .textsog {
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        color: #ffffff;
+        margin: 0;
+        padding-left: 4px;
+    } 
+
+    .forma {
+        width: auto;
+        height: 509px;
+        background-color: #131313;
+        box-shadow: 0px 30px 30px rgba(0, 0, 0, 0.05);
+    }
+    
+    .types {
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #ffffff;
+        margin: 0 auto;
+        padding-bottom: 13px;
+    }
+
+    .molot {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .obertka {
+        display: flex;
+        height: auto;
+    }
+
+    .foto-kvar, .interierkvartir {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .fotokv {
+        margin-bottom: 160px;
+        height: auto;
+        width: 120%;
+    }
+
+    .textblok1 {
+        background-color: #ffffff;
+        padding: 25px 29px 49px 34px;
+        margin: 0;
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.03);
+        margin-left: auto;
+        width: 85%;
+    }
+
+    .razmer {
+    width: 1236px;
+    display: flex;
+    justify-content: space-around;
+  
+    }
+
+    .RostovonDon {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E3B873;
+    margin: 0;
+    margin-top: -230px;
+    padding-bottom: 26px;
+    word-wrap: break-word;
+    }
+
+    .slaid7 {
+        height: 954px;
+        background-color: #181818;
+        background-image: none;
+        background-size: cover;
+        position: relative;
+        z-index: 3;
+        clear: none;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap ;
+    }
+
+    .menuifoto {
+        height: 864px;
+        margin: 0;
+        padding: 40px 18px 40px;
+        width: 100%; 
+    }
+
+    .fotomebeli, .fotomebeli2, .dizain, .Werea, .menuno, .slaid5 {
+        display: none;
+    }
+
+    .contentcorob {
+        margin: 0 auto;
+    }
+
+    .reflexia {
+        width: 100%;
+        height: 445px;
+        background-color: #13131300;
+        margin: 0 auto;
+        padding: 18px 0px;
+        margin-bottom: 52px;
+        bottom: 0px;
+    }
+
+    .razmer_conteiner_zaver {
+        width: 100%;
+        margin: 0 auto;
+        height: 954px;
+    }
+
+    .nazvanie {
+        font-family: 'Nunito Sans Regular', Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        color: #FFFFFF;
+        background-color: #13131300;
+        border: none;
+        outline: none;
+        margin-bottom: 8px;
+    }
+
+    .imputimput {
+        display: contents;
+        width: auto;
+    }
+
+    .imput_name {
+        width: 100%;
+    }
+
+    .imputin {
+        margin: 0;
+        border-bottom: 1px solid rgba(54, 54, 54, 0.3);
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .conteinerobrsv {
+        margin: 0 auto;
+    }
+
+    .karta {
+        width: 100%;
+        height: 466px;
+        background-image: url(IMG/33.png);
+        margin: 0 auto;
+        order: 1;
+        display: flex;
+    }
+
+    .poryadok {
+        display: flex;
+        flex-flow: wrap;
+    }
+
+    .RostovonDon {
+        order: 2;
+        margin-top: 0px;
+        margin: 0 auto;
+        padding-top: 20px;
+        text-align: center;
+        width: 95%;
+    }
+
+    .krugal {
+        display: none;
+    }
+
+    .pochtainst {
+        order: 3;
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .slaid7 {
+        height: 1150px;
+        background-color: #131313;
+        padding: 0 18px;
+    }
+}
